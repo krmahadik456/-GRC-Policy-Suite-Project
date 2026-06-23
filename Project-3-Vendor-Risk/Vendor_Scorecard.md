@@ -40,12 +40,12 @@
 
 | Score Range | Risk Rating | Indicator |
 |-------------|-------------|-----------|
-| 90-100 | Low Risk | 🟢 Green |
-| 70-89 | Medium Risk | 🟡 Yellow |
-| 50-69 | High Risk | 🟠 Orange |
-| Below 50 | Critical Risk | 🔴 Red |
+| 90-100 | Low Risk | Green |
+| 70-89 | Medium Risk | Yellow |
+| 50-69 | High Risk | Orange |
+| Below 50 | Critical Risk | Red |
 
-**Vendor Risk Rating:** 🟡 Medium Risk
+**Vendor Risk Rating:** Yellow - Medium Risk
 
 ---
 
@@ -119,3 +119,23 @@
 ---
 
 ## Executive Dashboard
+
+Category Performance:
+
+Information Security: 93.75%
+Access Control: 62.50%
+Data Protection: 81.25%
+Third-Party Management: 90.00%
+Compliance: 83.33%
+Incident History: 100.00%
+Business Continuity: 100.00%
+
+Overall: 84.33%
+
+---
+
+## Revision History
+
+| Version | Date | Author | Changes |
+|---------|------|--------|---------|
+| 1.0 | June 24, 2026 | Kaustubh Mahadik | Initial creation |
