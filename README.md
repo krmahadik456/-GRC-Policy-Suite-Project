@@ -16,7 +16,7 @@ Aspiring GRC Analyst with hands-on experience in:
 
 📞 +91 8793351453
 ✉️ krmahadik4567@gmail.com
-🔗 LinkedIn:  linkedin.com/in/kaustubh-mahadik-433542380
+🔗 LinkedIn:  https://www.linkedin.com/in/kaustubh-mahadik-433542380/
 🔗 GitHub: github.com/krmahadik456
 
 ---
