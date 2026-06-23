@@ -19,13 +19,13 @@ Aspiring GRC Analyst with hands-on experience in:
 🔗 GitHub: github.com/krmahadik456
 
 ---
-
-## 📂 Projects Included
+PROJECTS
 
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | **Policy Suite Development** | Complete set of 6 security policies aligned with ISO 27001 and SOC 2 |
 | 2 | **Risk Assessment Report** | Comprehensive risk assessment with 7 identified risks, risk register, and heatmap |
+| 3 | **Vendor Risk Assessment** | Complete third-party vendor risk assessment with questionnaire, scorecard, and risk report |
 
 ---
 
@@ -39,6 +39,9 @@ Aspiring GRC Analyst with hands-on experience in:
 - [View Project](https://github.com/krmahadik456/GRC-Portfolio/tree/main/Project-2-Risk-Assessment)
 - **What's Included:** Risk Assessment Report, Risk Register, Risk Heatmap, Executive Summary
 
+### Project 3: Vendor Risk Assessment
+- [View Project](https://github.com/krmahadik456/GRC-Portfolio/tree/main/Project-3-Vendor-Risk)
+- **What's Included:** Vendor Questionnaire, Vendor Scorecard, Vendor Risk Report, Vendor Risk Register, Executive Summary
 ---
 
 ## 🏢 Company Profile (Mock)
