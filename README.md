@@ -53,6 +53,61 @@ This project demonstrates my ability to create complete, professional security p
 - GDPR (General Data Protection Regulation)
 - PCI DSS (Payment Card Industry Data Security Standard)
 
+
+---
+
+## 📸 Screenshots
+
+### Policy Table of Contents
+![Policy Table of Contents](screenshots/policy_table_of_contents.png)
+
+### Sample Policy Page
+![Sample Policy Page](screenshots/sample_policy_page.png)
+
+### Acknowledgment Form
+![Acknowledgment Form](screenshots/policy_acknowledgment_form.png)
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Word / Google Docs (policy creation)
+- Microsoft Excel (acknowledgment form)
+- GitHub (version control and portfolio)
+
+---
+
+## 📚 Key Skills Demonstrated
+
+| Skill | How Demonstrated |
+|-------|------------------|
+| **Policy Writing** | Created 6 complete policies from scratch |
+| **Governance** | Established security framework and structure |
+| **Risk Management** | Addressed risks through clear policy statements |
+| **Compliance Mapping** | Aligned policies with ISO 27001, SOC 2, GDPR |
+| **Documentation** | Professional, structured documentation |
+| **Industry Knowledge** | Applied fintech regulatory requirements |
+
+
+---
+
+## 👤 About Me
+
+**Kaustubh Mahadik**
+Aspiring GRC Analyst | Cybersecurity Enthusiast
+
+> *"This project demonstrates my ability to create professional security policies from scratch—a core skill for any GRC professional."*
+
+---
+
+## 📎 References
+
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
+- [SOC 2 Trust Services Criteria](https://www.aicpa.org/soc4so)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [GDPR](https://gdpr-info.eu/)
+- [PCI DSS](https://www.pcisecuritystandards.org/)
+
 ---
 
 ## 📁 Repository Structure
