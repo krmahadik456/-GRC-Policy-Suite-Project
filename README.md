@@ -55,7 +55,18 @@ This project demonstrates my ability to create complete, professional security p
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
+
+```
+GRC-Policy-Suite-Project/
+├── README.md
+├── 01_Information_Security_Policy.md
+├── 02_Access_Control_Policy.md
+├── 03_Incident_Response_Plan.md
+├── 04_Acceptable_Use_Policy.md
+├── 05_Data_Protection_Policy.md
+└── 06_Policy_Acknowledgment_Form.md
+```
 
 ---
 
